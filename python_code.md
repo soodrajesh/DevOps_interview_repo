@@ -1,14 +1,14 @@
 from pathlib import Path
 
 template_content = """
-# 🚀 Universal Script Templates (Python & Bash)
+# Universal Script Templates (Python)
 Author: Raj
 
-This document provides **reusable, production-grade templates** for both Python and Bash scripting — ideal for DevOps, AWS automation, or interviews.
+This document provides **reusable, production-grade templates** for both Python scripting — ideal for DevOps, AWS automation, or interviews.
 
 ---
 
-## 🐍 Python Script Template
+## Python Script Template
 
 ```python
 #!/usr/bin/env python3
